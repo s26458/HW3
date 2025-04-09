@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "AHeMqhSQPSo=",
+  "dgSpecHash": "CQmVHwMKHmU=",
   "success": true,
-  "projectFilePath": "/Users/hunterlan/Downloads/Tutorial4/Tutorial4/Tutorial4.csproj",
+  "projectFilePath": "C:\\Users\\007li\\Documents\\GitHub\\HW3\\Tutorial4\\Tutorial4\\Tutorial4.csproj",
   "expectedPackageFiles": [
-    "/Users/hunterlan/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
-    "/Users/hunterlan/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
-    "/Users/hunterlan/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.11/microsoft.netcore.app.host.osx-arm64.8.0.11.nupkg.sha512"
+    "C:\\Users\\007li\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.13\\microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\007li\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.13\\microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\007li\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.13\\microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\007li\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.13\\microsoft.netcore.app.host.win-x64.8.0.13.nupkg.sha512"
   ],
   "logs": []
 }

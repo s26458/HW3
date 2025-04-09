@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hunterlan/Downloads/Tutorial4/Tutorial4/Tutorial4.csproj": {}
+    "C:\\Users\\007li\\Documents\\GitHub\\HW3\\Tutorial4\\Tutorial4\\Tutorial4.csproj": {}
   },
   "projects": {
-    "/Users/hunterlan/Downloads/Tutorial4/Tutorial4/Tutorial4.csproj": {
+    "C:\\Users\\007li\\Documents\\GitHub\\HW3\\Tutorial4\\Tutorial4\\Tutorial4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hunterlan/Downloads/Tutorial4/Tutorial4/Tutorial4.csproj",
+        "projectUniqueName": "C:\\Users\\007li\\Documents\\GitHub\\HW3\\Tutorial4\\Tutorial4\\Tutorial4.csproj",
         "projectName": "Tutorial4",
-        "projectPath": "/Users/hunterlan/Downloads/Tutorial4/Tutorial4/Tutorial4.csproj",
-        "packagesPath": "/Users/hunterlan/.nuget/packages/",
-        "outputPath": "/Users/hunterlan/Downloads/Tutorial4/Tutorial4/obj/",
+        "projectPath": "C:\\Users\\007li\\Documents\\GitHub\\HW3\\Tutorial4\\Tutorial4\\Tutorial4.csproj",
+        "packagesPath": "C:\\Users\\007li\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\007li\\Documents\\GitHub\\HW3\\Tutorial4\\Tutorial4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/hunterlan/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\007li\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -36,9 +36,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -57,15 +57,19 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
+              "version": "[8.0.13, 8.0.13]"
             },
             {
-              "name": "Microsoft.NETCore.App.Host.osx-arm64",
-              "version": "[8.0.11, 8.0.11]"
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.13, 8.0.13]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
+              "version": "[8.0.13, 8.0.13]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.13, 8.0.13]"
             }
           ],
           "frameworkReferences": {
@@ -73,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/hunterlan/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\007li\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
